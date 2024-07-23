@@ -25,3 +25,9 @@ Semantic search using LLMs is widely applicable across various domains:
 
 ### Conclusion
 Semantic search powered by Large Language Models represents a leap forward in search technology, transforming how users find information by focusing on context and meaning rather than simple keyword matching. As these models continue to evolve, the accuracy and relevance of search results will only improve, making information retrieval faster, more intuitive, and significantly more effective.
+
+---
+## Links:
+- [The Cohere & Weaviate Multilingual Wikipedia Search](https://wiki-multilingual-cohere.demo.weaviate.network/)
+- [Generative Search - Cohere](https://weaviate.io/developers/weaviate/modules/reader-generator-modules/generative-cohere)
+- [Generative Search - Ollama](https://weaviate.io/developers/weaviate/modules/reader-generator-modules/generative-ollama)
