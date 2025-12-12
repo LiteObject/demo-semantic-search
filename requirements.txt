@@ -1,3 +1,5 @@
+numpy
+sentence-transformers
 asttokens==2.4.1
 colorama==0.4.6
 comm==0.2.2
